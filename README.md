@@ -24,6 +24,7 @@ This Extension will help you to save all the available images on a particular we
 ## Contributing
 
 Contributions are always welcome!
+It's Open Source, Contribute towards Goodness.
 
 
   
