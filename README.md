@@ -38,6 +38,6 @@ Contributions are always welcome!
 2. Go to chrome://extensions -> click on load unpacked -> select the repo folder.
 3. Activate the extension. Visit any Website.
 4. While on any Website, Press F12 key and goto console.
-5. There you will see the script running and immage sources being listed down there.
+5. There you will see the script running and image sources are being listed down there.
 6. Check Screenshots for the reference.
     
